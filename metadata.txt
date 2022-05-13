@@ -24,6 +24,7 @@ about=Draw two new lines with right angles by defining a triangle. It is used to
 tags=
 
 homepage=https://github.com/felixvons/Easy-Right-Angle-Drawing
+repository=https://github.com/felixvons/Easy-Right-Angle-Drawing
 tracker=https://github.com/felixvons/Easy-Right-Angle-Drawing/issues
 category=Plugins
 
