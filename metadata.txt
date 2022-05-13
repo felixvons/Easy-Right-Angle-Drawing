@@ -1,0 +1,34 @@
+[general]
+# UTF-8 and CR LF important!
+
+# name: name in QGIS repository window
+name=Easy Right Angle Drawing
+
+# plugin icon in QGIS repository window
+icon=templates/icons/icon.png
+
+# name_menu_bar: name in QGIS' top menu bar
+name_menu_bar=Easy Right Angle Drawing
+
+# qgisMinimumVersion: minimum compatible QGIS version number
+qgisMinimumVersion=3.10
+
+# some default plugin information
+description=Draw two lines with a right angle.
+version=1.0
+author=Felix von Studsinske
+email=felix.vons@gmail.com
+
+about=Draw two new lines with right angles by defining a triangle. It is used to draw measuring lines e.g. to measure the distance from building corners to a destination point. UI/Messages currently only in German. <a href="https://github.com/felixvons/Easy-Right-Angle-Drawing/blob/main/manual/manual.md">Manual here</a>
+
+tags=
+
+homepage=https://github.com/felixvons/Easy-Right-Angle-Drawing
+tracker=https://github.com/felixvons/Easy-Right-Angle-Drawing/issues
+category=Plugins
+
+experimental=False
+deprecated=False
+
+zipFilename=easy_right_angle_draw.zip
+pythonPackages=True

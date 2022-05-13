@@ -1,0 +1,10 @@
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
+__pycache__/
+*.pyc
+*.mypy_cache
+.idea/
+*.gpkg*
+*.bak
+/.vscode/
