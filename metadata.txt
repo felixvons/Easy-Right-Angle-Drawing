@@ -11,7 +11,7 @@ icon=templates/icons/icon.png
 name_menu_bar=Easy Right Angle Drawing
 
 # qgisMinimumVersion: minimum compatible QGIS version number
-qgisMinimumVersion=3.10
+qgisMinimumVersion=3.22
 
 # some default plugin information
 description=Draw two lines with a right angle.
